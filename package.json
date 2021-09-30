@@ -9,6 +9,8 @@
   "author": "zam",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "babel-loader": "^8.2.2",
     "webpack": "^5.55.1",
     "webpack-cli": "^4.8.0"
   },
